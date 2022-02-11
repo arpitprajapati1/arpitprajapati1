@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Data Structure and Algorithms**
 
-- 📫 How to reach me **arpitpjpt8888@gmail.com**
+- 📫 How to reach me **Message me in my Github portfolio .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
